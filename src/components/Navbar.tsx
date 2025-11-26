@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center space-x-3">
   <img
-    src="src\asset\logo.png"
+    src="https://github.com/stalin5/logo/blob/main/logo-removebg-preview.png"
     alt="Nli8 Mentor Logo"
     className="w-28 h-28 object-contain"   // ← Reduced size
   />
